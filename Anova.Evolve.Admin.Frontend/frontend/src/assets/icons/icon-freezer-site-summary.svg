@@ -1,0 +1,12 @@
+<svg width="22" height="27" viewBox="0 0 22 27" fill="none"
+    xmlns="http://www.w3.org/2000/svg">
+    <path d="M0 2C0 0.895431 0.895431 0 2 0H20C21.1046 0 22 0.895431 22 2V4H0V2Z" fill="currentColor"/>
+    <path d="M0 5L10.3 15.3H9L5.3 11.9L4.5 12.8L7.2 15.3H3.5V16H0V5Z" fill="currentColor"/>
+    <path d="M0 5L10.3 15.3L10.3 14L6.9 10.3L7.8 9.5L10.3 12.2L10.3 8.5L11 8.5L11 5L0 5Z" fill="currentColor"/>
+    <path d="M22 5L11.7 15.3H13L16.7 11.9L17.5 12.8L14.8 15.3H18.5V16H22V5Z" fill="currentColor"/>
+    <path d="M22 5L11.7 15.3L11.7 14L15.1 10.3L14.2 9.5L11.7 12.2L11.7 8.5L11 8.5L11 5L22 5Z" fill="currentColor"/>
+    <path d="M0 27L10.3 16.7H9L5.3 20.1L4.5 19.2L7.2 16.7H3.5V16H0V27Z" fill="currentColor"/>
+    <path d="M0 27L10.3 16.7L10.3 18L6.9 21.7L7.8 22.5L10.3 19.8L10.3 23.5L11 23.5L11 27L0 27Z" fill="currentColor"/>
+    <path d="M22 27L11.7 16.7H13L16.7 20.1L17.5 19.2L14.8 16.7H18.5V16H22V27Z" fill="currentColor"/>
+    <path d="M22 27L11.7 16.7L11.7 18L15.1 21.7L14.2 22.5L11.7 19.8L11.7 23.5L11 23.5L11 27L22 27Z" fill="currentColor"/>
+</svg>
