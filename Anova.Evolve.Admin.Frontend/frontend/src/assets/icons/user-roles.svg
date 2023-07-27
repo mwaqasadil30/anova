@@ -1,0 +1,12 @@
+<svg width="17" height="17" viewBox="0 0 17 17" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#custom-user-roles-icon-clip-path-id)">
+<path d="M6.76793 8.17992L12.5318 2.41602" stroke="currentColor" stroke-width="1.5" stroke-miterlimit="10" stroke-linecap="square"/>
+<path d="M10.9244 4.02344L12.5319 5.63092L10.9244 7.23841L9.31694 5.63092" stroke="currentColor" stroke-width="1.5" stroke-miterlimit="10"/>
+<path d="M6.76767 12.7267C8.02318 11.4712 8.02318 9.43558 6.76767 8.18006C5.51216 6.92455 3.47657 6.92455 2.22106 8.18006C0.965547 9.43558 0.965547 11.4712 2.22106 12.7267C3.47657 13.9822 5.51216 13.9822 6.76767 12.7267Z" stroke="currentColor" stroke-width="1.5" stroke-miterlimit="10" stroke-linecap="square"/>
+</g>
+<defs>
+<clipPath id="custom-user-roles-icon-clip-path-id">
+<rect width="17" height="17" fill="white"/>
+</clipPath>
+</defs>
+</svg>
